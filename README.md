@@ -1,10 +1,10 @@
-# Итоговая Выпускная Работа
 ## Зуев Гордей - "Sport Assistant"
 
+---
 
-### Группа: 10 - МИ - 3
-### Электронная почта: gordey.zuev@gmail.com
-### VK: https://vk.com/gordey.zuev
+* Группа: 10 - МИ - 3
+* Электронная почта: gordey.zuev@gmail.com
+* VK: https://vk.com/gordey.zuev
 
 ---
 
