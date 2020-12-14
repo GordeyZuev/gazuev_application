@@ -75,7 +75,7 @@
 
 * :pencil: *Adobe Illustrator* - Для разработки пользоательского интерфейса
 * :triangular_ruler: *Adobe XD Design* - Для прототипироания и создания Макета
-* :computer: *Unity + C#* или *Android Studio + Kotlin* – Для разработки Android-версии
+* :computer: *Android Studio + Kotlin* – Для разработки Android-версии
 ---
 **[ ЭТАПЫ РАЗРАБОТКИ ]**
 
