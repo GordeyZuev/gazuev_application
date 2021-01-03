@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/main_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:paddingHorizontal="40dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:text="08 December"
+            android:textColor="#464748"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/icon_background" />
+
+        <View
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/icon_background" />
+
+        <View
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/icon_background" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:paddingTop="20dp"
+            android:paddingRight="10dp"
+            android:paddingLeft="20dp"
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent">
+
+            <FrameLayout
+                android:background="@drawable/start_match_background"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:padding="30dp">
+
+                <TextView
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="40dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:text="Start Match"
+                    android:textSize="20sp"
+                    android:textColor="#FFFFFF"/>
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_marginTop="20dp"
+                android:background="@drawable/card_background_orange"
+                android:layout_width="match_parent"
+                android:layout_height="125dp"
+                android:padding="30dp">
+
+                <TextView
+                    android:layout_gravity="center_horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:text="Your Stats"
+                    android:textSize="20sp"
+                    android:textColor="#FFFFFF"/>
+
+            </FrameLayout>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:paddingTop="20dp"
+            android:paddingRight="20dp"
+            android:paddingLeft="10dp"
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent">
+
+
+            <FrameLayout
+                android:background="@drawable/card_background"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:padding="30dp">
+
+                <TextView
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:text="Tactics"
+                    android:textSize="20sp"
+                    android:textColor="#FFFFFF"/>
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_marginTop="20dp"
+                android:background="@drawable/card_background_orange"
+                android:layout_width="match_parent"
+                android:layout_height="225dp"
+                android:padding="30dp">
+
+                <TextView
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:text="Games"
+                    android:textSize="20sp"
+                    android:textColor="#FFFFFF"/>
+
+            </FrameLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
