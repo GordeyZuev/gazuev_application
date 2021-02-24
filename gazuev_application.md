@@ -7,6 +7,8 @@
 * VK: https://vk.com/gordey.zuev
 
 ---
+## **Описание**
+---
 **[ НАЗВАНИЕ ПРОЕКТА ]**
 
 **“Sport Assistant”**
