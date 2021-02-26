@@ -75,7 +75,7 @@
 ---
 **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ ]**
 
-* :pencil: *Adobe Illustrator + Figma* - Для разработки пользоательского интерфейса
+* :pencil: *Adobe Illustrator* - Для разработки пользовательского интерфейса
 * :triangular_ruler: *Adobe XD Design + Figma* - Для прототипироания и создания Макета
 * :computer: *Android Studio + Kotlin* – Для разработки Android-версии
 ---
